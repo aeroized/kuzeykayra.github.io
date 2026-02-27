@@ -1,6 +1,6 @@
 # Hi, I'm Kuzey Kayra  
 
-[![Game Developer](https://img.shields.io/badge/Role-Independent_Game_Developer-111111?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Game Developer](https://img.shields.io/badge/Indie_Game_Developer-111111?style=for-the-badge&logo=unity&logoColor=white)](#)
 [![Unreal Engine 5](https://img.shields.io/badge/Engine-Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
 [![C++ Learner](https://img.shields.io/badge/Focus-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/Based_in-Turkey-E30A17?style=for-the-badge)](#)
